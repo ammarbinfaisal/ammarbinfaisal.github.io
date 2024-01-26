@@ -23,7 +23,7 @@ jobs:
     - uses: bndynet/github-action-notion@v1
       with:
         notion-token: "secret_GXpDcIWhgFp0r4JIPADLSERvlZtczZ1FiKL04pTgw8N"
-        root-page-id: "96914a533b5c4ac9b3e9bc0f2d8b9645"
+        root-page-id: "e9d97f965a6d40aebde2c1f32cd424eb"
 
     - name: Cache
       uses: actions/cache@v3
