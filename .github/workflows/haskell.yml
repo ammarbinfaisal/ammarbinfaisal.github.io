@@ -27,6 +27,7 @@ jobs:
         root-page-id: "e9d97f965a6d40aebde2c1f32cd424eb"
 
     - name: Configure the build
+      id: setup
       run: |
         cabal configure --enable-tests --enable-benchmarks --disable-documentation
         cabal build all --dry-run
