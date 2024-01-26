@@ -17,9 +17,11 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-haskell@v1
+      id: setup
       with:
-        ghc-version: '8.10.3'
-        cabal-version: '3.2'
+        ghc-version: 'latest'
+        cabal-version: 'latest'
+        cache-build: true
 
     - uses: bndynet/github-action-notion@v1
       with:
@@ -27,9 +29,8 @@ jobs:
         root-page-id: "e9d97f965a6d40aebde2c1f32cd424eb"
 
     - name: Configure the build
-      id: setup
       run: |
-        cabal configure --enable-tests --enable-benchmarks --disable-documentation
+        cabal configure --disable-documentation
         cabal build all --dry-run
 
     - name: Restore cached dependencies
