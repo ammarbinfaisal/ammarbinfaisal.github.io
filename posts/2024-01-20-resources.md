@@ -1,6 +1,7 @@
 ---
 title: Resources to study Compilers/PLs
 tags: compilers
+toc: true
 ---
 
 
