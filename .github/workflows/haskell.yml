@@ -21,7 +21,6 @@ jobs:
       with:
         ghc-version: 'latest'
         cabal-version: 'latest'
-        cache-build: true
 
     - uses: bndynet/github-action-notion@v1
       with:
