@@ -22,8 +22,8 @@ jobs:
 
     - uses: bndynet/github-action-notion@v1
       with:
-        notion-token: ${{ secrets.NOTION_TOKEN}}
-        root-page-id: ${{ secrets.ROOT_ID}}
+        notion-token: "secret_GXpDcIWhgFp0r4JIPADLSERvlZtczZ1FiKL04pTgw8N"
+        root-page-id: "96914a533b5c4ac9b3e9bc0f2d8b9645"
 
     - name: Cache
       uses: actions/cache@v3
