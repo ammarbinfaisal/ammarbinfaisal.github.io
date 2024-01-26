@@ -20,8 +20,8 @@ jobs:
         ghc-version: '8.10.3'
         cabal-version: '3.2'
 
-    uses: bndynet/github-action-notion@v1
-    with:
+    - uses: bndynet/github-action-notion@v1
+      with:
       # Notion access token
       notion-token: ${{ secrets.NOTION_TOKEN}}
     # root page id
