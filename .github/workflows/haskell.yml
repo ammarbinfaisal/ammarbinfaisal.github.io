@@ -16,7 +16,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - uses: actions/setup-haskell@v1
+
+    - uses: haskell-actions/setup@v2
       id: setup
       with:
         ghc-version: 'latest'
@@ -33,7 +34,7 @@ jobs:
         cabal build all --dry-run
 
     - name: Restore cached dependencies
-      uses: actions/cache/restore@v3
+      uses: actions/cache/restore@v4
       id: cache
       env:
         key: ${{ runner.os }}-ghc-${{ steps.setup.outputs.ghc-version }}-cabal-${{ steps.setup.outputs.cabal-version }}
@@ -49,7 +50,7 @@ jobs:
         cabal run site -- build
 
     - name: Save cached dependencies
-      uses: actions/cache/save@v3
+      uses: actions/cache/save@v4
       if: steps.cache.outputs.cache-hit != 'true'
       with:
         path: ${{ steps.setup.outputs.cabal-store }}
@@ -57,7 +58,7 @@ jobs:
 
     - uses: actions/upload-artifact@v4
       with: 
-        name: site
+        name: github-pages
         path: _site
 
   deploy:
