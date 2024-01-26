@@ -2,4 +2,4 @@
 title: Contact
 ---
 
-You can mail me at binfaisa[dot]ammar[at]gmail.com. 
+You can mail me at binfaisal[dot]ammar[at]gmail.com. 
