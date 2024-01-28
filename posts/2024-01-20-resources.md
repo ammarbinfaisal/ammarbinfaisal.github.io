@@ -29,6 +29,7 @@ toc: true
 - [IITD - Advanced Compiler Techniques](https://iitd.github.io/col874/)
 - [UCB CS294-113: Virtual Machines and Managed Runtimes](http://www.wolczko.com/CS294/)
 - [Virtual Machine Summer School 2016](https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW)
+- [Principles of Compilation - Arizona](https://www2.cs.arizona.edu/~collberg/Teaching/553/2011/Resources/index.html)
 
 ## Compiler Optimisation
 - [A Catalogue of Optimising Transforms](https://www.clear.rice.edu/comp512/Lectures/Papers/1971-allen-catalog.pdf)
@@ -44,9 +45,8 @@ toc: true
 - [Understanding Garbage Collection in JavaScriptCore](https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/)
 - [Trash talk: the Orinoco garbage collector](https://v8.dev/blog/trash-talk)
 - [Baby’s First Garbage Collector](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-- ### Incremental GCs
-  - [Train GC](https://beta.cs.au.dk/Papers/Train/train.html)
-  - [Treadmill GC](https://www.cofault.com/2022/07/treadmill.html)
+- [Train GC](https://beta.cs.au.dk/Papers/Train/train.html)
+- [Treadmill GC](https://www.cofault.com/2022/07/treadmill.html)
 
 ## Single Static Assignment
 - [Simple and Efficient Construction of Static Single Assignment Form](https://link.springer.com/chapter/10.1007/978-3-642-37051-9_6)
