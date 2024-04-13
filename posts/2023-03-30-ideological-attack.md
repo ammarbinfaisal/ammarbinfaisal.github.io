@@ -97,7 +97,7 @@ Around 1700-1800 we saw the era of colonialism. These western nations began to m
  نتعاون فيما اتفقنا عليه، ويعذر بعضنا بعضا فيما اختلفنا فيه - 
 basic common denominator is la ialaha illa Allah so unite with the rafidah and jahmiyyah.
 
-### jahilliyyah branch
+## jahilliyyah branch
 
 1. Around this idea of jaahiliyyah we saw other innovations like hakimiyyah. They wanted to make the issue of rulership the most fundamental aspect of tawheed. 
 2. Another was that the obedience to the ruler is when he follows sharee’ah 100%.
