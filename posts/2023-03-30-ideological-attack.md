@@ -3,9 +3,8 @@ title: Ideological Attack
 tags: notes, manhaj, deen
 ---
 
-Created: March 30, 2023 2:31 PM
-Lecure: https://soundcloud.com/user-689553575/sets/the-ideological-attack-upon
-Last edited time: March 28, 2024 7:10 AM
+Created: March 30, 2023 2:31 PM <br/>
+Lecure: [link](https://soundcloud.com/user-689553575/sets/the-ideological-attack-upon) <br/>
 Lastest Version: https://ammarbinfaisal.notion.site/Ideological-Attack-9cc7c6cf321849e58b7f9c19bcbd1132?pvs=4
 
 _These are notes from the lecture "The Ideological Attack Upon Salafiyyah" by Shaykh Abu Iyaad._
@@ -88,7 +87,7 @@ as it is a rule in Allah’s shariah - when you abandon tawheed Allah makes you 
 وَضَرَبَ ٱللَّهُ مَثَلًۭا قَرْيَةًۭ كَانَتْ ءَامِنَةًۭ مُّطْمَئِنَّةًۭ يَأْتِيهَا رِزْقُهَا رَغَدًۭا مِّن كُلِّ مَكَانٍۢ فَكَفَرَتْ بِأَنْعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلْجُوعِ وَٱلْخَوْفِ بِمَا كَانُوا۟ يَصْنَعُونَ
 > 
 > 
-> And Allâh puts forward the example of a township (Makkah), that dwelt secure and well-content: its provision coming to it in abundance from every place, but it (its people) denied the Favours of Allâh (with ungratefulness). So Allâh made it taste extreme of hunger (famine) and fear, because of that (evil, i.e. denying Prophet Muhammad صلى الله عليه و سلم) which they (its people) used to do.
+> And Allâh puts forward the example of a township (Makkah), that dwelt secure and well-content: its provision coming to it in abundance from every place, but it (its people) denied the Favours of Allâh (with ungratefulness). So Allâh made it taste extreme of hunger (famine) and fear, because of that (evil, i.e. denying Prophet Muhammad صلى الله عليه وسلم) which they (its people) used to do.
 > 
 
 Around 1700-1800 we saw the era of colonialism. These western nations began to make this attack against the muslim lands. This is from asbaab-shar’iah. In the 20th century the sufi ottoman state was finished. Some people came along and saw the decline in muslim ummah and saw that the sufi state has ended. They saw the russian revolution and the experience of european nation and what the philosophers had been writing. When they tried to change this situation, they used the concepts of kuffar just like the ahlul-kalam of old did. They are Hasan al-Banna, Mawdudi, Syed Qutb, Taqi-ud-deen Nabahani. In the early part of their life they were socialist or marxist or ba’thist. They introduced this poison to Islam. Two major Slogans:
